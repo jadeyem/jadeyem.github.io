@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: John Adeyemo, Engineer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
